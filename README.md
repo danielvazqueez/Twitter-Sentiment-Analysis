@@ -8,8 +8,9 @@ Para la primera parte del proyecto se realizo siguiendo el siguiente tutorial: h
 la información que se estaba usando para entrenar los modelos a una proporcionada por Kaggle de Tweets.
 
 Una vez construidos los modelos, se realiza el analisis de sentimiento en los Tweets en tiempo real usando la API de Twitter y se grafican también en tiempo real a manera de ver si los tweets de un tema en especifico son más negativos o más positivos o neutral
+
 ---
-### Extras del proyecto
+## Extras del proyecto
 Se realizaron diferentes funcionalidades aparte del modelo principal como parte de la exploración del proyecto
 
 ### Red neuronal recurrente 
